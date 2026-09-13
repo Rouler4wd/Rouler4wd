@@ -1,4 +1,5 @@
 {
+  "username": "Rouler4wd",
   "widgets": [
     {
       "widgetId": "header",
@@ -11645,8 +11646,8 @@
         "y": 688
       },
       "size": {
-        "width": 400,
-        "height": 230
+        "width": 376,
+        "height": 376
       },
       "config": {
         "lockAspectRatio": true,
@@ -11659,42 +11660,6 @@
       "locked": false,
       "visible": true,
       "zIndex": 8
-    },
-    {
-      "instanceId": "widget_1789283598268",
-      "widgetId": "contribution-snake",
-      "name": "Contribution-snake Widget",
-      "position": {
-        "x": 0,
-        "y": 1080
-      },
-      "size": {
-        "width": 800,
-        "height": 250
-      },
-      "config": {},
-      "locked": false,
-      "visible": true,
-      "zIndex": 9
-    },
-    {
-      "instanceId": "widget_1789283642455",
-      "widgetId": "godprofile-neural",
-      "name": "Godprofile-neural Widget",
-      "position": {
-        "x": 52,
-        "y": 888
-      },
-      "size": {
-        "width": 360,
-        "height": 216
-      },
-      "config": {
-        "accentColor": "#b6a891"
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 10
     }
   ],
   "globalStyles": {
@@ -11708,5 +11673,6 @@
     "themeMode": "dark",
     "templateStyle": "native"
   },
-  "templateId": "native"
+  "templateId": "native",
+  "profileSlug": "default"
 }
